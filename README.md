@@ -19,6 +19,9 @@ Get the latest `CC-Studio-win64.zip` from the [Releases page](../../releases/lat
 
 ![Theme tab](docs/images/app-theme.png)
 
+## Compatibility
+Built and tested on one Centauri Carbon running OpenCentauri. The screen layout and screen program recolours only apply when the printer's file matches the stock version they were made for; on other firmware versions those parts are skipped safely, so you may get a partial recolour. The icon recolour, boot animation, boot logo and Restore don't depend on this.
+
 ## Safety
 No firmware is flashed. Stock files stay in the printer's read-only layer; changes sit on top and can be removed. SSH runs separately from the touchscreen, so you can always connect and restore. The advanced screen-program patch checks the file fingerprint first and skips itself if it isn't the stock version.
 
