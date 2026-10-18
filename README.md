@@ -1,6 +1,6 @@
 # CC Studio
 
-Free Windows app that customises the **Elegoo Centauri Carbon** running **OpenCentauri**: your own boot animation and logo, a full colour theme for the touchscreen, and one-click restore to stock.
+Free Windows app that customises the **Elegoo Centauri Carbon** running **OpenCentauri v0.4.0**: your own boot animation and logo, a full colour theme for the touchscreen, and one-click restore to stock.
 
 ![Recoloured home screen](docs/images/ui-home.png) ![Recoloured Canvas page](docs/images/ui-canvas.png)
 
