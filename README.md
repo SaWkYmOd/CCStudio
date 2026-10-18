@@ -2,7 +2,10 @@
 
 Free Windows app that customises the **Elegoo Centauri Carbon** running **OpenCentauri**: your own boot animation and logo, a full colour theme for the touchscreen, and one-click restore to stock.
 
-![Recoloured home screen](docs/ui-home.png) ![Recoloured Canvas page](docs/ui-canvas.png)
+![Recoloured home screen](docs/images/ui-home.png) ![Recoloured Canvas page](docs/images/ui-canvas.png)
+
+## Website
+https://sawkymod.github.io/CCStudio/
 
 ## Download
 Get the latest `CC-Studio-win64.zip` from the [Releases page](../../releases/latest), unzip it and run `CC Studio.exe`. Windows 10/11, no install. Your PC and printer must be on the same network.
@@ -14,7 +17,7 @@ Get the latest `CC-Studio-win64.zip` from the [Releases page](../../releases/lat
 - **Restore**: puts animation, icons, screen layout, screen program and logo back to stock.
 - **Settings**: printer IP/user/password, Test connection, Fix, and a Screenshot button for the printer screen.
 
-![Theme tab](docs/app-theme.png)
+![Theme tab](docs/images/app-theme.png)
 
 ## Safety
 No firmware is flashed. Stock files stay in the printer's read-only layer; changes sit on top and can be removed. SSH runs separately from the touchscreen, so you can always connect and restore. The advanced screen-program patch checks the file fingerprint first and skips itself if it isn't the stock version.
